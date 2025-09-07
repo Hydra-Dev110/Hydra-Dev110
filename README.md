@@ -27,8 +27,8 @@ I’m passionate about building **automated, scalable, and reliable systems**. C
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranyadav1102003&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranyadav1102003&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hydra-Dev110&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra-Dev110&layout=compact&theme=tokyonight)  
 
 ---
 
