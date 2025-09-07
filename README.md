@@ -33,7 +33,7 @@ I’m passionate about building **automated, scalable, and reliable systems**. C
 ---
 
 ## 🤝 Let’s Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/kiran-yadav-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kiran-yadav-profile) 
 - 📧 Email: **kiranyadav1102003@gmail.com**  
 - 📸 [Instagram](https://www.instagram.com/_m_a_r_a_T_h_a_2003)  
 
