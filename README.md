@@ -10,18 +10,18 @@ I’m passionate about building **automated, scalable, and reliable systems**. C
 - 🎓 Completed **TCS training** in Networking, Windows Server, and IT Security.  
 - 💻 Working in a **DevOps-focused project**: automating builds, deployments, and test environments.  
 - 🔧 Hands-on with **Linux, scripting, and environment management**.  
-- ☁️ Learning **AWS Cloud & AI Practitioner concepts** to strengthen my cloud foundation.  
+- ☁️ Learning  SonarQube, Trivy, Helm  
 - 📈 Interested in **Kubernetes, Terraform, and advanced CI/CD pipelines**.  
 
 ---
 
 ## 🛠️ Tech Stack  
-**CI/CD & DevOps Tools:** Jenkins, Nexus, Git, SonarQube, Trivy  
-**Containers & Orchestration:** Docker, Kubernetes, Helm  
+**CI/CD & DevOps Tools:** Jenkins, Nexus, Git,
+**Containers & Orchestration:** Docker, Kubernetes
 **Infrastructure as Code:** Terraform, Ansible (learning)  
 **Cloud:** AWS (EKS, EC2, S3, IAM, VPC)  
-**Monitoring & Logging:** Prometheus, Grafana, ELK/EFK stack  
-**OS & Scripting:** Linux (RedHat/Ubuntu), Bash  
+**Monitoring & Logging:** Prometheus, Grafana, ELK/EFK stack (Learning)
+**OS & Scripting:** Linux , Bash  
 
 
 ---
